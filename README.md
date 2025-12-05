@@ -73,12 +73,13 @@ The project generates two comprehensive dashboards:
 **François Tilkin**
 - Data Analyst | Data Engineer
 - IBM Data Analyst Professional Certificate
-- [LinkedIn](www.linkedin.com/in/françois-tilkin-1667b138a)
-- [Email](tilkinanalytics@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/fran%C3%A7ois-tilkin-1667b138a/)
+- [Email](mailto:tilkinanalytics@gmail.com)
 
 ## 📝 License
 
 This project is part of the IBM Data Analyst Professional Certificate program.
----
 
 ⭐ If you found this project useful, please consider giving it a star!
+
+---
