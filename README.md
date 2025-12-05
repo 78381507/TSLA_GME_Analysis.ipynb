@@ -42,11 +42,7 @@ pip install yfinance pandas beautifulsoup4 matplotlib requests
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/tilkinfrancois/TSLA_GME_Analysis.git
-cd TSLA_GME_Analysis
-```
+1. [Repository](https://github.com/78381507/TSLA_GME_Analysis.ipynb/blob/main/README.md)
 
 2. Install dependencies:
 ```bash
