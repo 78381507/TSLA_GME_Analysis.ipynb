@@ -46,11 +46,7 @@ pip install yfinance pandas beautifulsoup4 matplotlib requests
 
 2. [Requirements](requirements.txt)
 
-
-3. Launch Jupyter Notebook:
-```bash
-jupyter notebook TSLA_GME_Analysis.ipynb
-```
+3. [Launch Jupyter Notebook](TSLA_GME_Analysis.ipynb.ipynb)
 
 ## 📊 Visualizations
 
