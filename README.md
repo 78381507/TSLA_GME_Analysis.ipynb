@@ -80,6 +80,4 @@ The project generates two comprehensive dashboards:
 
 This project is part of the IBM Data Analyst Professional Certificate program.
 
-⭐ If you found this project useful, please consider giving it a star!
-
 ---
