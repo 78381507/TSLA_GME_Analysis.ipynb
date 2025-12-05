@@ -44,10 +44,8 @@ pip install yfinance pandas beautifulsoup4 matplotlib requests
 
 1. [Repository](https://github.com/78381507/TSLA_GME_Analysis.ipynb/blob/main/README.md)
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+2. [Requirements](requirements.txt)
+
 
 3. Launch Jupyter Notebook:
 ```bash
